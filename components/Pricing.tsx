@@ -20,7 +20,7 @@ export default function Pricing() {
     },
     {
       name: "Pro",
-      price: "$1000", // Changed to $1000 for one-time pack
+      price: "$500", // Changed to $1000 for one-time pack
       features: [
         "All Free features",
         "One-time payment links",
